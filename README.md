@@ -1,8 +1,3 @@
----
-layout: default
-title: Whitepaper
----
-
 <div style="position: fixed; top: 10px; right: 10px; background: white; padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px; z-index: 999;">
   <a href="#french">🇫🇷 FR</a> |
   <a href="#english">🇬🇧 EN</a>
