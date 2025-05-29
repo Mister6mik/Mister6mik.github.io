@@ -3,6 +3,7 @@
   <a href="#english">🇬🇧 EN</a>
 </div>
 <a name="english" style="visibility:hidden">English version</a>
+
 # 🧭 MANIFESTO FOR A NEXT-GENERATION AI INTERFACE
 
 **Towards a Fractal, Fluid, Contextual, and Aware OS**
