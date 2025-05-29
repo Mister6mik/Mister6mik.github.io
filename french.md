@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 🧭 MANIFESTE POUR UNE INTERFACE IA NOUVELLE GÉNÉRATION
+permalink: /french
 ---
 
 # 🧭 MANIFESTE POUR UNE INTERFACE IA NOUVELLE GÉNÉRATION

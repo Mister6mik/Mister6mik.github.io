@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 🧭 MANIFESTO FOR A NEXT-GENERATION AI INTERFACE
+permalink: /english
 ---
 
 # 🧭 MANIFESTO FOR A NEXT-GENERATION AI INTERFACE
