@@ -1,4 +1,6 @@
-[🇫🇷 Français](#french) | [🇬🇧 English](#english)
+<div style="position: fixed; display: inline-block; right: 1rem; width: 14rem; top: 2rem;">
+   [🇫🇷 Français](#french) | [🇬🇧 English](#english)
+</div>
 
 # 🧭 MANIFESTO FOR A NEXT-GENERATION AI INTERFACE
 
