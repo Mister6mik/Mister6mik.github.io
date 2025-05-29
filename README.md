@@ -2,7 +2,7 @@
   <a href="#french">🇫🇷 FR</a> |
   <a href="#english">🇬🇧 EN</a>
 </div>
-
+<a name="english" style="visibility:hidden">English version</a>
 # 🧭 MANIFESTO FOR A NEXT-GENERATION AI INTERFACE
 
 **Towards a Fractal, Fluid, Contextual, and Aware OS**
@@ -210,7 +210,8 @@ This manifesto is a call for a more authentic, useful, and human-intelligence-re
 This manifesto is not an end in itself, but the beginning of a conversation, an invitation to rethink the foundations of our interaction with the digital world. By marrying the power of AI, the robustness and efficiency of languages like Rust, and the mathematical elegance of fractal structures, we can aspire to create operating systems that are no longer mere resource managers, but true intelligent partners. OSes that anticipate, adapt, and manifest in a way that respects the fluidity of human thought and amplifies our capabilities. The path is demanding, but the promise of a truly synergistic human-machine interaction is worth the effort.
 
 
-<a name="french">Français</a>
+<a name="french" style="visibility:hidden">French version</a>
+
 # 🧭 MANIFESTE POUR UNE INTERFACE IA NOUVELLE GÉNÉRATION
 
 **Vers un OS fractal, fluide, contextuel et conscient**
