@@ -1,5 +1,6 @@
-<div style="position: fixed; display: inline-block; right: 1rem; width: 14rem; top: 2rem;">
-   [🇫🇷 Français](#french) | [🇬🇧 English](#english)
+<div style="position: fixed; top: 10px; right: 10px; background: white; padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px; z-index: 999;">
+  <a href="#francais">🇫🇷 FR</a> |
+  <a href="#english">🇬🇧 EN</a>
 </div>
 
 # 🧭 MANIFESTO FOR A NEXT-GENERATION AI INTERFACE
